@@ -12,7 +12,7 @@
 <div id="mid">
     <div id="denglu">
     <s:fielderror></s:fielderror>
-      <s:form action="customer_logon" namespace="/customer" method="post">
+      <s:form action="customer_logon" namespace="/customer" method="post" >
       <table width="100%" height="94" border="0" cellpadding="0" cellspacing="0">
         <tr>
           <td width="70" height="35" align="right">会员名：</td>
